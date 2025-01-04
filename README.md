@@ -28,3 +28,9 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/Currency-Exchange-App.git
+
+
+### Screenshots
+`<img width="790" alt="Screenshot 2025-01-04 at 22 37 16" src="https://github.com/user-attachments/assets/34233895-13d4-4ef8-a947-0168366ebbd3" />` 
+
+
