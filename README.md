@@ -31,6 +31,8 @@ Ensure you have the following installed:
 
 
 ### Screenshots
-`<img width="790" alt="Screenshot 2025-01-04 at 22 37 16" src="https://github.com/user-attachments/assets/34233895-13d4-4ef8-a947-0168366ebbd3" />` 
+<img width="790" alt="Screenshot 2025-01-04 at 22 37 16" src="https://github.com/user-attachments/assets/34233895-13d4-4ef8-a947-0168366ebbd3" />
+
+<img width="844" alt="Screenshot 2025-01-04 at 22 39 41" src="https://github.com/user-attachments/assets/a8ce7476-148d-40d7-b4cb-6ff8ffa80e6e" />
 
 
