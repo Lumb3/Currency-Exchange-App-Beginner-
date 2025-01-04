@@ -10,7 +10,7 @@ This project is designed as an introduction to Flutter development. It provides 
 
 - Clean and user-friendly interface.
 - Real-time currency conversion.
-- Built using Flutter, making it cross-platform for Android and iOS.
+- Built using Flutter, making it cross-platform for Android and IOS.
 
 ## Getting Started
 
