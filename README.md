@@ -1,23 +1,72 @@
-<<<<<<< HEAD
-# Currency-Exchange-App-Beginner-
-=======
-# Currency Exchange App that converts USD to MNT
+Currency Exchange App
 
-A new Flutter project.
+A beginner-friendly Flutter project that converts USD to MNT (Mongolian Tugrik).
 
-## Getting Started
+Overview
 
-This project is a starting point for a Flutter application.
+This project is designed as an introduction to Flutter development. It provides a simple yet practical application for currency conversion, allowing users to convert USD to MNT in real time.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clean and user-friendly interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 84cf37d (first commit)
+Real-time currency conversion.
+
+Built using Flutter, making it cross-platform for Android and iOS.
+
+Getting Started
+
+Prerequisites
+
+Ensure you have the following installed:
+
+Flutter SDK
+
+Android Studio or Visual Studio Code (with Flutter and Dart plugins)
+
+A device or emulator for testing
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/Currency-Exchange-App.git
+
+Navigate to the project directory:
+
+cd Currency-Exchange-App
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
+
+Screenshots
+
+Home Screen
+
+Conversion Result
+
+Resources
+
+If you're new to Flutter, here are some resources to help you get started:
+
+Lab: Write your first Flutter app
+
+Cookbook: Useful Flutter samples
+
+Flutter Documentation: Tutorials, samples, and full API reference.
+
+Contributing
+
+Contributions are welcome! If you have ideas for improvements or encounter any issues, feel free to open an issue or submit a pull request.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 >>>>>>> 
 <img width="150" alt="Screenshot 2025-01-04 at 22 28 26" src="https://github.com/user-attachments/assets/7bf979a4-e853-4f3f-b05b-7037ce7641f3" />
 
