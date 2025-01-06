@@ -96,10 +96,28 @@ class _CurrencyConverterMaterialPageState
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                 onPressed: () {
-                  // Update the result and rebuild the UI
-                  setState(() {
-                    result = double.parse(textEditingController.text) * 3424;
-                  });
+                  // Handle input and update result
+                  setState(
+                    () {
+                      try {
+                        result =
+                            double.parse(textEditingController.text) * 3424;
+                      } catch (e) {
+                        // Show error message
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text(
+                              "Please enter a valid numeric value.",
+                              style: TextStyle(color: Colors.white),
+                            ),
+                            backgroundColor: Colors.red,
+                          ),
+                        );
+                      } finally {
+                        print("Program is Executed");
+                      }
+                    },
+                  );
                 },
                 style: const ButtonStyle(
                   elevation: MaterialStatePropertyAll(15),
